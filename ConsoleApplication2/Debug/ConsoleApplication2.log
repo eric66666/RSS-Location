@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\eric\desktop\consoleapplication2\consoleapplication2\source.cpp(127): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\eric\desktop\consoleapplication2\consoleapplication2\source.cpp(254): warning C4244: '+=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  ConsoleApplication2.vcxproj -> C:\Users\eric\Desktop\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\eric\Desktop\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)
